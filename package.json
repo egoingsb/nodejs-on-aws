@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-on-aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egoingsb/nodejs-on-aws.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/egoingsb/nodejs-on-aws/issues"
+  },
+  "homepage": "https://github.com/egoingsb/nodejs-on-aws#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
